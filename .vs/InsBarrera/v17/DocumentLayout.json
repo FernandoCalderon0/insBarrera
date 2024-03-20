@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferna\\Desktop\\InsBarrera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|c:\\users\\ferna\\desktop\\insbarrera\\insbarrera\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|solutionrelative:insbarrera\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "InsBarrera\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "InsBarrera\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:22:40.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

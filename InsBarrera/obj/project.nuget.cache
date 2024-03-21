@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XJ1RNo+LO0Bg+W5S/Vcs1Wz9H4eBI/TU3GZ5rdWH07BXPD76g2RVXFrIPBToj73HESAIfsz5GZWoUcZly0z8rA==",
+  "dgSpecHash": "1w4vJoZ4H6Gjjm6KrSbw1MUeQWcc56CBT1Lob9qezvs5GUfchxRdcPm8YC7duZCGy8vPa01aF8JjT/ue9iqM1Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\InsBarrera.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

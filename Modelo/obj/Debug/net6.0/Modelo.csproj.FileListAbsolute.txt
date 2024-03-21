@@ -1,0 +1,12 @@
+C:\Users\ferna\Desktop\InsBarrera\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\Users\ferna\Desktop\InsBarrera\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\Users\ferna\Desktop\InsBarrera\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\Users\ferna\Desktop\InsBarrera\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Desktop\InsBarrera\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\ferna\Desktop\InsBarrera\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\Users\ferna\Desktop\InsBarrera\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\InsBarrera\Modelo\obj\Debug\net6.0\Modelo.sourcelink.json
+C:\Users\ferna\Desktop\InsBarrera\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\Users\ferna\Desktop\InsBarrera\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\Users\ferna\Desktop\InsBarrera\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\Users\ferna\Desktop\InsBarrera\Modelo\obj\Debug\net6.0\ref\Modelo.dll

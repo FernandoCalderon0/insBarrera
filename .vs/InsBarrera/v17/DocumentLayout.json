@@ -11,12 +11,48 @@
       "RelativeMoniker": "D:0:0:{D5F76076-BD91-4D03-9E13-959A101242E0}|Datos\\Datos.csproj|solutionrelative:datos\\cd_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC1EBCC3-C42B-48F6-8013-13FD53FCCAC3}|Modelo\\Modelo.csproj|c:\\users\\ferna\\desktop\\insbarrera\\modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC1EBCC3-C42B-48F6-8013-13FD53FCCAC3}|Modelo\\Modelo.csproj|solutionrelative:modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|c:\\users\\ferna\\desktop\\insbarrera\\insbarrera\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|solutionrelative:insbarrera\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F76076-BD91-4D03-9E13-959A101242E0}|Datos\\Datos.csproj|c:\\users\\ferna\\desktop\\insbarrera\\datos\\cd_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F76076-BD91-4D03-9E13-959A101242E0}|Datos\\Datos.csproj|solutionrelative:datos\\cd_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|c:\\users\\ferna\\desktop\\insbarrera\\insbarrera\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|solutionrelative:insbarrera\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|c:\\users\\ferna\\desktop\\insbarrera\\insbarrera\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|solutionrelative:insbarrera\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F76076-BD91-4D03-9E13-959A101242E0}|Datos\\Datos.csproj|c:\\users\\ferna\\desktop\\insbarrera\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F76076-BD91-4D03-9E13-959A101242E0}|Datos\\Datos.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|c:\\users\\ferna\\desktop\\insbarrera\\insbarrera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|solutionrelative:insbarrera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|c:\\users\\ferna\\desktop\\insbarrera\\insbarrera\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA006995-D04B-4DEE-A55D-A2082CD49D83}|InsBarrera\\InsBarrera.csproj|solutionrelative:insbarrera\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1EBCC3-C42B-48F6-8013-13FD53FCCAC3}|Modelo\\Modelo.csproj|c:\\users\\ferna\\desktop\\insbarrera\\modelo\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1EBCC3-C42B-48F6-8013-13FD53FCCAC3}|Modelo\\Modelo.csproj|solutionrelative:modelo\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1EBCC3-C42B-48F6-8013-13FD53FCCAC3}|Modelo\\Modelo.csproj|c:\\users\\ferna\\desktop\\insbarrera\\modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1EBCC3-C42B-48F6-8013-13FD53FCCAC3}|Modelo\\Modelo.csproj|solutionrelative:modelo\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InsBarrera\\Controllers\\UsuarioController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1EBCC3-C42B-48F6-8013-13FD53FCCAC3}|Modelo\\Modelo.csproj|c:\\users\\ferna\\desktop\\insbarrera\\modelo\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1EBCC3-C42B-48F6-8013-13FD53FCCAC3}|Modelo\\Modelo.csproj|solutionrelative:modelo\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,31 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CD_Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Datos\\CD_Categoria.cs",
-              "RelativeDocumentMoniker": "Datos\\CD_Categoria.cs",
-              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Datos\\CD_Categoria.cs",
-              "RelativeToolTip": "Datos\\CD_Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:16:30.693Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Modelo\\Categoria.cs",
-              "RelativeDocumentMoniker": "Modelo\\Categoria.cs",
-              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Modelo\\Categoria.cs",
-              "RelativeToolTip": "Modelo\\Categoria.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T19:16:10.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "InsBarrera\\Controllers\\WeatherForecastController.cs",
@@ -74,16 +86,149 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\appsettings.json",
+              "RelativeDocumentMoniker": "InsBarrera\\appsettings.json",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\appsettings.json",
+              "RelativeToolTip": "InsBarrera\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T13:33:14.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CD_Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Datos\\CD_Proveedor.cs",
+              "RelativeDocumentMoniker": "Datos\\CD_Proveedor.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Datos\\CD_Proveedor.cs",
+              "RelativeToolTip": "Datos\\CD_Proveedor.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwHgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:21:31.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "InsBarrera\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "InsBarrera\\Controllers\\ProveedorController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:50:48.046Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CategoriaController.cs",
               "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Controllers\\CategoriaController.cs",
               "RelativeDocumentMoniker": "InsBarrera\\Controllers\\CategoriaController.cs",
               "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Controllers\\CategoriaController.cs",
               "RelativeToolTip": "InsBarrera\\Controllers\\CategoriaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADgvx0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T23:22:40.691Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CD_Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Datos\\CD_Categoria.cs",
+              "RelativeDocumentMoniker": "Datos\\CD_Categoria.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Datos\\CD_Categoria.cs",
+              "RelativeToolTip": "Datos\\CD_Categoria.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wC0AAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:01:07.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Datos\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:57:49.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Program.cs",
+              "RelativeDocumentMoniker": "InsBarrera\\Program.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Program.cs",
+              "RelativeToolTip": "InsBarrera\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:00:51.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "InsBarrera\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\WeatherForecast.cs",
+              "RelativeToolTip": "InsBarrera\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:00:49.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Modelo\\Categoria.cs",
+              "RelativeDocumentMoniker": "Modelo\\Categoria.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Modelo\\Categoria.cs",
+              "RelativeToolTip": "Modelo\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:16:10.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Modelo\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Modelo\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Modelo\\Proveedor.cs",
+              "RelativeToolTip": "Modelo\\Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:57:38.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "InsBarrera\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\InsBarrera\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "InsBarrera\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:17:27.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Modelo\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Modelo\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ferna\\Desktop\\InsBarrera\\Modelo\\BaseEntity.cs",
+              "RelativeToolTip": "Modelo\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T14:30:42.552Z"
             }
           ]
         }

@@ -1,33 +1,33 @@
 ﻿using Modelo;
-using System.Data;
 using System.Data.SqlClient;
+using System.Data;
 
 namespace Datos
 {
-    public class CD_Categoria
+    public class CD_Proveedor
     {
-        public static CD_Categoria _instancia = null;
-        private CD_Categoria()
+        public static CD_Proveedor _instancia = null;
+        private CD_Proveedor()
         {
 
         }
-        public static CD_Categoria Instancia
+        public static CD_Proveedor Instancia
         {
             get
             {
                 if (_instancia == null)
                 {
-                    _instancia = new CD_Categoria();
+                    _instancia = new CD_Proveedor();
                 }
                 return _instancia;
             }
         }
-        public List<Categoria> ObtenerCategoria()
+        public List<Proveedor> ObtenerProveedor()
         {
-            var rptListaCategoria = new List<Categoria>();
+            var rptListaProveedor = new List<Proveedor>();
             using (SqlConnection oConexion = new(Conexion.Con()))
             {
-                SqlCommand cmd = new SqlCommand("dbo.sp_MostrarCategoria", oConexion);
+                SqlCommand cmd = new SqlCommand("dbo.sp_MostrarProveedores", oConexion);
                 cmd.CommandType = CommandType.StoredProcedure;
 
                 try
@@ -37,37 +37,41 @@ namespace Datos
 
                     while (dr.Read())
                     {
-                        rptListaCategoria.Add(new Categoria()
+                        rptListaProveedor.Add(new Proveedor()
                         {
-
-                            Id = Convert.ToInt32(dr["IdCategoria"].ToString()), 
-                            Descripcion = dr["Descripcion"].ToString(),
-                            Estado = Convert.ToBoolean(dr["Estado"].ToString()),
+                            //  Id = row.Field<Guid>("IdUsuario"),
+                            Id = Convert.ToInt32(dr["IdProveedor"].ToString()),
+                            NombreCompañia = dr["NombreCompañia"].ToString(),
+                            Correo = dr["Correo"].ToString(),
+                            Telefono = dr["Telefono"].ToString(),
+                           Estado = Convert.ToBoolean(dr["Estado"].ToString()),
                             //FechaCreacion= dr["FechaCreacion"].ToString()
                         });
                     }
                     dr.Close();
 
-                    return rptListaCategoria;
+                    return rptListaProveedor;
                 }
                 catch
                 {
-                    rptListaCategoria = null;
-                    return rptListaCategoria;
+                    rptListaProveedor = null;
+                    return rptListaProveedor;
                 }
             }
         }
-        public bool RegistrarCategoria(Categoria oCategoria)
+        public bool RegistrarProveedor(Proveedor oProveedor)
         {
             bool respuesta = true;
             using (SqlConnection oConexion = new SqlConnection(Conexion.Con()))
             {
                 try
                 {
-                    SqlCommand cmd = new SqlCommand("dbo.sp_AgregarCategoria", oConexion);
+                    SqlCommand cmd = new SqlCommand("dbo.sp_AgregarProveedores", oConexion);
                     // cmd.Parameters.AddWithValue("Descripcion", oCategoria.)
-                    cmd.Parameters.AddWithValue("Descripcion", oCategoria.Descripcion = (oCategoria.Descripcion != null ? oCategoria.Descripcion : ""));
-                    cmd.Parameters.Add("Resultado",SqlDbType.Bit).Direction = ParameterDirection.Output;
+                    cmd.Parameters.AddWithValue("NombreCompañia", oProveedor.NombreCompañia = (oProveedor.NombreCompañia != null ? oProveedor.NombreCompañia : ""));
+                    cmd.Parameters.AddWithValue("Correo", oProveedor.Correo = (oProveedor.Correo != null ? oProveedor.Correo : ""));
+                    cmd.Parameters.AddWithValue("Telefono", oProveedor.Telefono = (oProveedor.Telefono != null ? oProveedor.Telefono : ""));
+                    cmd.Parameters.Add("Resultado", SqlDbType.Bit).Direction = ParameterDirection.Output;
                     cmd.CommandType = CommandType.StoredProcedure;
 
                     oConexion.Open();
@@ -81,17 +85,19 @@ namespace Datos
             }
             return respuesta;
         }
-        public bool ModificarCategoria(Categoria oCategoria)
+        public bool ModificarProveedor(Proveedor oProveedor)
         {
             bool respuesta = true;
             using (SqlConnection oConexion = new SqlConnection(Conexion.Con()))
             {
                 try
                 {
-                    SqlCommand cmd = new SqlCommand("dbo.sp_EditarCategoria", oConexion);
-                    cmd.Parameters.AddWithValue("IdCategoria", oCategoria.Id);
-                    cmd.Parameters.AddWithValue("Descripcion", oCategoria.Descripcion = (oCategoria.Descripcion != null? oCategoria.Descripcion : ""));
-                    cmd.Parameters.AddWithValue("Activo", oCategoria.Estado);
+                    SqlCommand cmd = new SqlCommand("dbo.sp_EditarProveedores", oConexion);
+                    cmd.Parameters.AddWithValue("IdCategoria", oProveedor.Id);
+                    cmd.Parameters.AddWithValue("NombreCompañia", oProveedor.NombreCompañia = (oProveedor.NombreCompañia != null ? oProveedor.NombreCompañia : ""));
+                    cmd.Parameters.AddWithValue("Correo", oProveedor.Correo = (oProveedor.Correo != null ? oProveedor.Correo : ""));
+                    cmd.Parameters.AddWithValue("Telefono", oProveedor.Telefono = (oProveedor.Telefono != null ? oProveedor.Telefono : ""));
+                    cmd.Parameters.AddWithValue("Activo", oProveedor.Estado);
                     cmd.Parameters.Add("Resultado", SqlDbType.Bit).Direction = ParameterDirection.Output;
 
                     cmd.CommandType = CommandType.StoredProcedure;
@@ -106,15 +112,15 @@ namespace Datos
             }
             return respuesta;
         }
-        public bool EliminarCategoria(int IdCategoria)
+        public bool EliminarProveedor(int IdProveedor)
         {
             bool respuesta = true;
             using (SqlConnection oConexion = new SqlConnection(Conexion.Con()))
             {
                 try
                 {
-                    SqlCommand cmd = new SqlCommand("dbo.sp_EliminarCategoria", oConexion);
-                    cmd.Parameters.AddWithValue("cod", IdCategoria);
+                    SqlCommand cmd = new SqlCommand("dbo.sp_EliminarProveedores", oConexion);
+                    cmd.Parameters.AddWithValue("cod", IdProveedor);
                     cmd.Parameters.Add("Resultado", SqlDbType.Bit).Direction = ParameterDirection.Output;
                     cmd.CommandType = CommandType.StoredProcedure;
 
@@ -124,13 +130,10 @@ namespace Datos
                 }
                 catch
                 {
-                    respuesta=false;
+                    respuesta = false;
                 }
             }
             return respuesta;
         }
     }
 }
-
-       
-

@@ -8,7 +8,7 @@ namespace InsBarrera.Controllers
     [Route("categoria")]
     public class CategoriaController : ControllerBase
     {
-        // public object Newtonsoft { get; private set; }
+        public readonly CD_Categoria? _Categoria;
 
         [HttpGet]
         [Route("ListarCategorias")]
@@ -26,5 +26,20 @@ namespace InsBarrera.Controllers
 
             return Newtonsoft.Json.JsonConvert.SerializeObject(categoriasJson);
         }
+
+     //   [HttpPost]
+       // [Route("AgregarCategorias")]
+      //  public string PostCategoria(Categoria nuevaCategoria)
+      //  {
+            //Categoria newCategoria = .RegistrarCategoria(nuevaCategoria);
+            //  Categoria newCategoria = CD_Categoria.Instancia.RegistrarCategoria(nuevaCategoria);
+
+      //      _ = _Categoria.RegistrarCategoria(nuevaCategoria);
+
+            // return Newtonsoft.Json.JsonConvert.SerializeObject(newCategoria);
+
+          //  return Ok( nuevaCategoria);
+        }
+
+
     }
-}
